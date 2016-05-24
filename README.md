@@ -6,7 +6,7 @@ Visit [here](https://matrixz.github.io/ember-cli-timer/) for the usage of this a
 
 This addon can be installed using ember-cli. For ember-cli apps, do
 
-`ember install:addon ember-cli-timer`
+`ember install ember-cli-timer`
 
 For the older version of ember-cli, do
 
